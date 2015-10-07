@@ -1,0 +1,18 @@
+.cell {
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  font-size: 5rem;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 2px;
+  background: rgb(175, 173, 182);
+}
+
+.cell.x {
+  background: rgb(124, 250, 111);
+}
+
+.cell.o {
+  background: rgb(238, 137, 73);
+}
