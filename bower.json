@@ -16,5 +16,8 @@
     "react": "~0.13.3",
     "purescript-dom": "~0.2.6",
     "purescript-react": "~0.4.2"
+  },
+  "resolutions": {
+    "purescript-dom": "~0.2.6"
   }
 }
